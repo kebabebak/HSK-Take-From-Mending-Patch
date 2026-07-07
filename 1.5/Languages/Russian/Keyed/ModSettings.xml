@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TakeFromMendingPatch.SettingsCategory>HSK Take From Mending Patch</TakeFromMendingPatch.SettingsCategory>
+
+  <TakeFromMendingPatch.EnableLogging>Включить логирование</TakeFromMendingPatch.EnableLogging>
+  <TakeFromMendingPatch.EnableLoggingTooltip>Записывать в Player.log подробности поиска ингредиентов (префикс [TakeFromMendingPatch]).</TakeFromMendingPatch.EnableLoggingTooltip>
+
+  <TakeFromMendingPatch.ShowMaintenanceMessages>Показывать служебные сообщения</TakeFromMendingPatch.ShowMaintenanceMessages>
+  <TakeFromMendingPatch.ShowMaintenanceMessagesTooltip>Записывать в Player.log служебные действия, например очистку устаревших ключей счетов в ExtraBillData.</TakeFromMendingPatch.ShowMaintenanceMessagesTooltip>
+</LanguageData>

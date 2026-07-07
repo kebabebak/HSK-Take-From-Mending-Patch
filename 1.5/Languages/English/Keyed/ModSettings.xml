@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TakeFromMendingPatch.SettingsCategory>HSK Take From Mending Patch</TakeFromMendingPatch.SettingsCategory>
+
+  <TakeFromMendingPatch.EnableLogging>Enable logging</TakeFromMendingPatch.EnableLogging>
+  <TakeFromMendingPatch.EnableLoggingTooltip>Log detailed ingredient-search decisions to Player.log (prefix [TakeFromMendingPatch]).</TakeFromMendingPatch.EnableLoggingTooltip>
+
+  <TakeFromMendingPatch.ShowMaintenanceMessages>Show maintenance messages</TakeFromMendingPatch.ShowMaintenanceMessages>
+  <TakeFromMendingPatch.ShowMaintenanceMessagesTooltip>Log routine maintenance actions such as pruning stale bill-data keys from ExtraBillData.</TakeFromMendingPatch.ShowMaintenanceMessagesTooltip>
+</LanguageData>
