@@ -7,7 +7,7 @@
   <supportedVersions>
     <li>1.5</li>
   </supportedVersions>
-  <description>Patch that fixes `Take from` button in RimWorld HSK 1.5 and prunes stale HaulToBuilding ExtraBillData bill keys after load.</description>
+  <description>Patch that fixes `Take from` button in RimWorld HSK 1.5</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
